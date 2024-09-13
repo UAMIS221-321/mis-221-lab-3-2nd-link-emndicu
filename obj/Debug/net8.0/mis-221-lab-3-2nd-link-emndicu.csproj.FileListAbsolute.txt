@@ -1,0 +1,15 @@
+C:\Users\edndi\Desktop\221f2024\lab3\mis-221-lab-3-2nd-link-emndicu\obj\Debug\net8.0\mis-221-lab-3-2nd-link-emndicu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edndi\Desktop\221f2024\lab3\mis-221-lab-3-2nd-link-emndicu\obj\Debug\net8.0\mis-221-lab-3-2nd-link-emndicu.AssemblyInfoInputs.cache
+C:\Users\edndi\Desktop\221f2024\lab3\mis-221-lab-3-2nd-link-emndicu\obj\Debug\net8.0\mis-221-lab-3-2nd-link-emndicu.AssemblyInfo.cs
+C:\Users\edndi\Desktop\221f2024\lab3\mis-221-lab-3-2nd-link-emndicu\obj\Debug\net8.0\mis-221-lab-3-2nd-link-emndicu.csproj.CoreCompileInputs.cache
+C:\Users\edndi\Desktop\221f2024\lab3\mis-221-lab-3-2nd-link-emndicu\obj\Debug\net8.0\mis-221-lab-3-2nd-link-emndicu.sourcelink.json
+C:\Users\edndi\Desktop\221f2024\lab3\mis-221-lab-3-2nd-link-emndicu\bin\Debug\net8.0\mis-221-lab-3-2nd-link-emndicu.exe
+C:\Users\edndi\Desktop\221f2024\lab3\mis-221-lab-3-2nd-link-emndicu\bin\Debug\net8.0\mis-221-lab-3-2nd-link-emndicu.deps.json
+C:\Users\edndi\Desktop\221f2024\lab3\mis-221-lab-3-2nd-link-emndicu\bin\Debug\net8.0\mis-221-lab-3-2nd-link-emndicu.runtimeconfig.json
+C:\Users\edndi\Desktop\221f2024\lab3\mis-221-lab-3-2nd-link-emndicu\bin\Debug\net8.0\mis-221-lab-3-2nd-link-emndicu.dll
+C:\Users\edndi\Desktop\221f2024\lab3\mis-221-lab-3-2nd-link-emndicu\bin\Debug\net8.0\mis-221-lab-3-2nd-link-emndicu.pdb
+C:\Users\edndi\Desktop\221f2024\lab3\mis-221-lab-3-2nd-link-emndicu\obj\Debug\net8.0\mis-221-lab-3-2nd-link-emndicu.dll
+C:\Users\edndi\Desktop\221f2024\lab3\mis-221-lab-3-2nd-link-emndicu\obj\Debug\net8.0\refint\mis-221-lab-3-2nd-link-emndicu.dll
+C:\Users\edndi\Desktop\221f2024\lab3\mis-221-lab-3-2nd-link-emndicu\obj\Debug\net8.0\mis-221-lab-3-2nd-link-emndicu.pdb
+C:\Users\edndi\Desktop\221f2024\lab3\mis-221-lab-3-2nd-link-emndicu\obj\Debug\net8.0\mis-221-lab-3-2nd-link-emndicu.genruntimeconfig.cache
+C:\Users\edndi\Desktop\221f2024\lab3\mis-221-lab-3-2nd-link-emndicu\obj\Debug\net8.0\ref\mis-221-lab-3-2nd-link-emndicu.dll
